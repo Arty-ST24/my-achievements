@@ -1,0 +1,10 @@
+print(123.2//11.4)
+print(5)
+print(type(1.3))
+print("Hello World")
+print(type(bool("9")))
+print(bool("9"))
+print(12//2)
+print(12/2 > 345*3)
+print(12/2 < 345*3)
+
