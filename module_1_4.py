@@ -1,0 +1,6 @@
+my_string = input("Введите любой текст:")
+print("Количество символов:", len(my_string))
+print("В верхнем регистре:",my_string.upper())
+print("В нижнем регистре:",my_string.lower())
+print("Без пробелов:",my_string.replace(" ",""))
+print(my_string[-1])
